@@ -1,23 +1,21 @@
-# ChatGPT
+# SocialN AI Bot
 
-ChatGPT 是一个基于 OpenAI 的 GPT 模型构建的聊天机器人项目。
+SocialN is an advanced AI bot designed to simulate human-like conversation, provide intelligent responses, and create digital artwork.
 
-## 概述
+## Features
 
-ChatGPT 项目旨在提供一个简单而强大的聊天机器人系统，使用了最先进的自然语言处理技术。它包括：
+- Natural Language Processing (NLP) for conversational interaction
+- Machine Learning (ML) for continuous improvement
+- Neural Networks for generating artwork
+- Multi-language support
+- Voice recognition and synthesis
 
-- 用于训练 GPT 模型的示例代码和数据集。
-- 部署聊天机器人的指南和工具。
-- 社区贡献的代码和资源。
+## Usage
 
-## 安装
+1. Clone the repository to your local machine.
+2. Install the required dependencies (see Installation section in README).
+3. Run the main script and interact with SocialN.
+4. Explore the drawing functionality to see SocialN's artistic capabilities.
+5. Provide feedback and contribute to the project's development.
 
-要使用 ChatGPT，首先确保你的环境满足以下要求：
-
-- Python 3.x
-- pip 包管理器
-
-然后，可以使用以下命令安装 ChatGPT：
-
-```bash
-pip install chatgpt
+For detailed instructions on installation and usage, refer to the [Documentation](docs/README.md).
